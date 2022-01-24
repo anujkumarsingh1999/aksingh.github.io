@@ -383,7 +383,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "Course & Research Projects";
+    content: "Major Projects";
 }
 .teams .carousel .card{
     background: #222;
